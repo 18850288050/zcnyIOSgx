@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.107.220.218:8988/versionFile/com.bonc.light_pj_2.6.4.ipa</string>
+					<string>http://218.107.220.218:8988/versionFile/com.bonc.light_pj_test8_2.1.15.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bonc.light_pj</string>
+				<string>com.bonc.light_pj_test8</string>
 				<key>bundle-version</key>
-				<string>2.6.4</string>
+				<string>2.1.15</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
