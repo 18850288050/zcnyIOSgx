@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bonc.light_pj_2.6.4.ipa</string>
+				<string>com.bonc.light_pj</string>
 				<key>bundle-version</key>
 				<string>2.6.4</string>
 				<key>kind</key>
