@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bonc.tzs.app</string>
+				<string>http://218.107.220.218:8988/versionFile/com.bonc.light_pj_test8_2.1.15.apk.1</string>
 				<key>bundle-version</key>
-				<string>1.0.4</string>
+				<string>2.1.15</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
