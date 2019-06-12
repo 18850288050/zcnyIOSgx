@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.107.220.218:8988/versionFile/com.bonc.light_1.0.2.ipa</string>
+					<string>http://218.107.220.218:8988/versionFile/zcgl_1.0.2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -34,7 +34,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bonc.light</string>
+				<string>zcgl</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
